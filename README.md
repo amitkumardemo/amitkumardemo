@@ -1,9 +1,3 @@
-## GitHub Stats and Contributions
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitkumardemo&show_icons=true&theme=radical)
-![Contribution Snake](https://github.com/amitkumardemo/amitkumardemo/blob/output/github-contribution-grid-snake.svg)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumardemo&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitkumardemo&theme=radical)
 
 
 
@@ -58,6 +52,15 @@ I'm Amit Kumar, a passionate software engineer and AI enthusiast with hands-on e
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="SQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
 </p>
+
+---
+
+## GitHub Stats and Contributions
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitkumardemo&show_icons=true&theme=radical)
+![Contribution Snake](https://github.com/amitkumardemo/amitkumardemo/blob/output/github-contribution-grid-snake.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumardemo&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitkumardemo&theme=radical)
 
 ---
 
