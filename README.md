@@ -114,6 +114,14 @@ I'm Amit Kumar, a passionate software engineer and AI enthusiast with hands-on e
 
 ---
 
+## GitHub Stats and Contributions
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitkumardemo&show_icons=true&theme=radical)
+![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=amitkumardemo&theme=react-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumardemo&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitkumardemo&theme=radical)
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkumar&show_icons=true&locale=en&layout=compact" alt="amitkumar" /></p>
 
 <p align="center">
