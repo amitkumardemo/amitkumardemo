@@ -1,4 +1,4 @@
-
+[](https://github.com/amitkumardemo/amitkumardemo/blob/main/Screenshot%202024-11-05%20142655.png)
 
 
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
