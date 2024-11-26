@@ -7,13 +7,13 @@
 
 ---
 
-### 🔍 About Me
+<h1 align="center">🔍 About Me</h1>
 I'm Amit Kumar, a passionate software engineer and AI enthusiast with hands-on experience in machine learning, web development, and software engineering. I’m currently pursuing a B.Tech in Computer Science Engineering and have completed internships in front-end development at Bharat Intern and competitive programming at HackerRank, where I achieved top certifications. As the founder of TechieHelp, I provide internships, resources, and development services for budding tech professionals
 
 ---
 
-### 📬 Connect with Me:
-<p align="left">
+<h1 align="center">📬 Connect with Me:</h1>
+<p align="center">
   <a href="https://www.linkedin.com/in/amit-kumar-686196225" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
   <a href="https://chat.whatsapp.com/CyqTMfdJF3dH0dvr0BLEAH" target="blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" /></a>
   <a href="https://www.youtube.com/@TechieHelp" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" /></a>
@@ -24,14 +24,14 @@ I'm Amit Kumar, a passionate software engineer and AI enthusiast with hands-on e
 ### 🛠️ Skills:
 
 **Programming Languages**:
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
 </p>
 
 **Libraries/Frameworks**:
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/>
@@ -39,7 +39,7 @@ I'm Amit Kumar, a passionate software engineer and AI enthusiast with hands-on e
 </p>
 
 **Tools / Platforms**:
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="MS Excel" width="40" height="40"/>
@@ -48,7 +48,7 @@ I'm Amit Kumar, a passionate software engineer and AI enthusiast with hands-on e
 </p>
 
 **Databases**:
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="SQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
 </p>
