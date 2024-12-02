@@ -14,10 +14,23 @@ I'm Amit Kumar, a passionate software engineer and AI enthusiast with hands-on e
 
 <h1 align="center">📬 Connect with Me:</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/amit-kumar-686196225" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://chat.whatsapp.com/CyqTMfdJF3dH0dvr0BLEAH" target="blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" /></a>
-  <a href="https://www.youtube.com/@TechieHelp" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/in/amit-kumar-686196225" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://chat.whatsapp.com/CyqTMfdJF3dH0dvr0BLEAH" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/amitk25783/" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.hackerrank.com/amitk25783" target="blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank" />
+  </a>
+  <a href="https://www.youtube.com/@TechieHelp" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
+  </a>
 </p>
+
 
 ---
 
