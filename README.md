@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">🚀 Software Engineer | Founder @TechieHelp</h3>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amitkumardemo&theme=react-dark&bg_color=0D1117&color=79D7FF&line=FF69B4&point=FFD700)
 
 ---
 
