@@ -55,9 +55,7 @@
 
 ---
 
-## 🚀 Latest Contributions  
-<!-- Replace GITHUB_USERNAME with your GitHub username -->
-![GitHub Metrics](https://metrics.lecoq.io/amitkumardemo?template=classic&languages=1&isocalendar=1&stars=1&achievements=1&followup=1&lines=1&activity=1&repositories=1&topics=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumardemo&layout=compact&theme=radical)
 
 ---
 
