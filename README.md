@@ -41,7 +41,9 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=University-Management-System&theme=radical" alt="University Management System" style="width: 100%; height: 180px; object-fit: cover;">
     </a>
   </div>
+</div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <!-- Second Row: Two repositories side by side -->
   <div style="width: 48%; text-align: center;">
     <a href="https://github.com/amitkumardemo/Plant-Disease-Detection-System">
@@ -55,6 +57,7 @@
     </a>
   </div>
 </div>
+
 
 
 
