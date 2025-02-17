@@ -27,13 +27,21 @@
 ---
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=EdgeCareer&theme=radical)](https://github.com/amitkumardemo/Your-Repo-Name)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=University-Management-System&theme=radical)](https://github.com/amitkumardemo/Your-Second-Repo)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=Plant-Disease-Detection-System&theme=radical)](https://github.com/amitkumardemo/Your-Second-Repo)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=TechieHelp_Chatbot&theme=radical)](https://github.com/amitkumardemo/Your-Second-Repo)
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <a href="https://github.com/amitkumardemo/EdgeCareer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=EdgeCareer&theme=radical" alt="EdgeCareer">
+  </a>
+  <a href="https://github.com/amitkumardemo/University-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=University-Management-System&theme=radical" alt="University Management System">
+  </a>
+  <a href="https://github.com/amitkumardemo/Plant-Disease-Detection-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=Plant-Disease-Detection-System&theme=radical" alt="Plant Disease Detection System">
+  </a>
+  <a href="https://github.com/amitkumardemo/TechieHelp_Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=TechieHelp_Chatbot&theme=radical" alt="TechieHelp Chatbot">
+  </a>
+</div>
 
 ---
 
