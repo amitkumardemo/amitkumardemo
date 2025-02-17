@@ -57,7 +57,7 @@
 
 ## 🚀 LeetCode Stats  
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/<your_leetcode_username>?theme=dark&font=Ubuntu&ext=activity&border=0)](https://leetcode.com/<your_leetcode_username>/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Amitkumar90?theme=dark&font=Ubuntu&ext=activity&border=0)](https://leetcode.com/<your_leetcode_username>/)
 
 
 
