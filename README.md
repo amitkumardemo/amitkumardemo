@@ -82,20 +82,6 @@
 
 ---
 
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitkumardemo)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitkumardemo)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@amitkumardemo)
-
----
-
-⭐ **Star my repositories if you find them useful!**  
-💡 **Let's Connect and Collaborate on Open Source Projects!**
-
-
-
----
-
 <h1 align="center">🔍 About Me</h1>
 I'm Amit Kumar, a passionate software engineer and AI enthusiast with hands-on experience in machine learning, web development, and software engineering. I’m currently pursuing a B.Tech in Computer Science Engineering and have completed internships in front-end development at Bharat Intern and competitive programming at HackerRank, where I achieved top certifications. As the founder of TechieHelp, I provide internships, resources, and development services for budding tech professionals
 
@@ -198,4 +184,6 @@ I'm Amit Kumar, a passionate software engineer and AI enthusiast with hands-on e
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="amitkumar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkumar" alt="amitkumar" /></a> </p>
- make it fully animated and unique 
+ ⭐ **Star my repositories if you find them useful!**  
+💡 **Let's Connect and Collaborate on Open Source Projects!**
+
