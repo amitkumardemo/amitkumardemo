@@ -5,6 +5,12 @@
 <h3 align="center">🚀 Software Engineer | Founder @TechieHelp</h3>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amitkumardemo&theme=react-dark&bg_color=0D1117&color=79D7FF&line=FF69B4&point=FFD700)
+## GitHub Stats and Contributions
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitkumardemo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumardemo&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitkumardemo&theme=radical)
+
 
 ---
 
@@ -65,14 +71,6 @@ I'm Amit Kumar, a passionate software engineer and AI enthusiast with hands-on e
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="SQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
 </p>
-
----
-
-## GitHub Stats and Contributions
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitkumardemo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumardemo&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitkumardemo&theme=radical)
 
 ---
 
