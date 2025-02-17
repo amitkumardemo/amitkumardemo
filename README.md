@@ -31,6 +31,10 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=University-Management-System&theme=radical)](https://github.com/amitkumardemo/Your-Second-Repo)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=Plant-Disease-Detection-System&theme=radical)](https://github.com/amitkumardemo/Your-Second-Repo)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=TechieHelp_Chatbot&theme=radical)](https://github.com/amitkumardemo/Your-Second-Repo)
+
 ---
 
 ## 🚀 Latest Contributions  
