@@ -58,9 +58,6 @@
 ## 🚀 LeetCode Stats  
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Amitkumar90?theme=dark&font=Ubuntu&ext=activity&border=0)](https://leetcode.com/<your_leetcode_username>/)
-## 🚀 LeetCode Streak  
-
-[![LeetCode Streak](https://leetcard.jacoblin.cool/Amitkumar90?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/<your_leetcode_username>/)
 
 
 
