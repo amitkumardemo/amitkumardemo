@@ -60,6 +60,9 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Amitkumar90?theme=dark&font=Ubuntu&ext=activity&border=0)](https://leetcode.com/Amitkumar90/)
 
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Amitkumar90-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Amitkumar90/)
+
+
 
 
 
