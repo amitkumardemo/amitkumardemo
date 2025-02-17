@@ -28,27 +28,37 @@
 
 ## 📌 Pinned Repositories
 
-<div style="display: flex; gap: 20px;">
-  <!-- First Column with 2 Repositories stacked vertically -->
-  <div style="width: 48%; display: flex; flex-direction: column; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <!-- First Row: Two repositories side by side -->
+  <div style="width: 48%; text-align: center;">
     <a href="https://github.com/amitkumardemo/EdgeCareer">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=EdgeCareer&theme=radical" alt="EdgeCareer" style="width: 100%; height: 180px; object-fit: cover;">
     </a>
+  </div>
+
+  <div style="width: 48%; text-align: center;">
     <a href="https://github.com/amitkumardemo/University-Management-System">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=University-Management-System&theme=radical" alt="University Management System" style="width: 100%; height: 180px; object-fit: cover;">
     </a>
   </div>
 
-  <!-- Second Column with 2 Repositories stacked vertically -->
-  <div style="width: 48%; display: flex; flex-direction: column; gap: 20px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <!-- Second Row: Two repositories side by side -->
+  <div style="width: 48%; text-align: center;">
     <a href="https://github.com/amitkumardemo/Plant-Disease-Detection-System">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=Plant-Disease-Detection-System&theme=radical" alt="Plant Disease Detection System" style="width: 100%; height: 180px; object-fit: cover;">
     </a>
+  </div>
+
+  <div style="width: 48%; text-align: center;">
     <a href="https://github.com/amitkumardemo/TechieHelp_Chatbot">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=TechieHelp_Chatbot&theme=radical" alt="TechieHelp Chatbot" style="width: 100%; height: 180px; object-fit: cover;">
     </a>
   </div>
 </div>
+
 
 
 
