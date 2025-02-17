@@ -2,9 +2,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">🚀 Software Engineer | Founder @TechieHelp</h3>
-
-# 🚀 Amit Kumar | Machine Learning Engineer | Founder of TechieHelp
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77606&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Founder+of+TechieHelp;Open+Source+Contributor;Java+%7C+Python+%7C+React+%7C+Flask;GitHub+5+Star+Java+HackerRanker)](https://github.com/amitkumardemo)
 
@@ -30,9 +27,9 @@
 ---
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=Your-Repo-Name&theme=radical)](https://github.com/amitkumardemo/Your-Repo-Name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=EdgeCareer&theme=radical)](https://github.com/amitkumardemo/Your-Repo-Name)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=Your-Second-Repo&theme=radical)](https://github.com/amitkumardemo/Your-Second-Repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=University-Management-System&theme=radical)](https://github.com/amitkumardemo/Your-Second-Repo)
 
 ---
 
