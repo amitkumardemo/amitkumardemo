@@ -60,7 +60,7 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Amitkumar90?theme=dark&font=Ubuntu&ext=activity&border=0)](https://leetcode.com/<your_leetcode_username>/)
 
-[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Amitkumar90?ext=heatmap)](https://leetcode.com/<your_leetcode_username>/)
+
 
 
 
