@@ -28,27 +28,32 @@
 
 ## 📌 Pinned Repositories
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <!-- First Column -->
-  <div style="width: 48%;">
-    <a href="https://github.com/amitkumardemo/EdgeCareer" style="display: block; text-align: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="width: 48%; text-align: center;">
+    <a href="https://github.com/amitkumardemo/EdgeCareer">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=EdgeCareer&theme=radical" alt="EdgeCareer" style="width: 100%; height: 180px; object-fit: cover;">
-    </a>
-    <a href="https://github.com/amitkumardemo/University-Management-System" style="display: block; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=University-Management-System&theme=radical" alt="University Management System" style="width: 100%; height: 180px; object-fit: cover;">
     </a>
   </div>
 
-  <!-- Second Column -->
-  <div style="width: 48%;">
-    <a href="https://github.com/amitkumardemo/Plant-Disease-Detection-System" style="display: block; text-align: center;">
+  <div style="width: 48%; text-align: center;">
+    <a href="https://github.com/amitkumardemo/University-Management-System">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=University-Management-System&theme=radical" alt="University Management System" style="width: 100%; height: 180px; object-fit: cover;">
+    </a>
+  </div>
+  
+  <div style="width: 48%; text-align: center;">
+    <a href="https://github.com/amitkumardemo/Plant-Disease-Detection-System">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=Plant-Disease-Detection-System&theme=radical" alt="Plant Disease Detection System" style="width: 100%; height: 180px; object-fit: cover;">
     </a>
-    <a href="https://github.com/amitkumardemo/TechieHelp_Chatbot" style="display: block; text-align: center;">
+  </div>
+  
+  <div style="width: 48%; text-align: center;">
+    <a href="https://github.com/amitkumardemo/TechieHelp_Chatbot">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitkumardemo&repo=TechieHelp_Chatbot&theme=radical" alt="TechieHelp Chatbot" style="width: 100%; height: 180px; object-fit: cover;">
     </a>
   </div>
 </div>
+
 
 
 
