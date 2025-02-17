@@ -1,3 +1,4 @@
+
 ![Profile](https://github.com/amitkumardemo/amitkumardemo/blob/main/Screenshot%202024-11-05%20142655.png)
 
 
@@ -58,6 +59,9 @@
 ## 🚀 LeetCode Stats  
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Amitkumar90?theme=dark&font=Ubuntu&ext=activity&border=0)](https://leetcode.com/<your_leetcode_username>/)
+
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Amitkumar90?ext=heatmap)](https://leetcode.com/<your_leetcode_username>/)
+
 
 
 
