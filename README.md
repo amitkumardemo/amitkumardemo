@@ -55,7 +55,8 @@
 
 ---
 
-![Metrics](https://metrics.lecoq.io/amitkumardemo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Amitkumar90?theme=dark&font=Ubuntu&ext=activity)
+
 
 ---
 
